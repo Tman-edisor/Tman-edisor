@@ -5,5 +5,5 @@ Hi there 👋 I am Twizeyimana Elissa
 - 🤔 I’m looking for help with learning new technologies
 - 💬 Ask me about  software related issues
 - 📫 How to reach me: @TwizeyimanaEli4,tzyelissa90@gmail.com
--🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love listen music hanging on social media.
+-🥅 2020 Goals: Contribute more to Open Source projects.
