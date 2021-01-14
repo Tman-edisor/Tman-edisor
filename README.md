@@ -4,7 +4,7 @@ Hi there 👋 I am Twizeyimana Elissa
 - 👯 I’m looking to collaborate with other Tech innovator
 - 🤔 I’m looking for help with learning new technologies
 - 💬 Ask me about  software related issues
-- 📫 How to reach me: @TwizeyimanaEli4,tzyelissa90@gmail.com
+- 📫 How to reach me:tzyelissa90@gmail.com
 - ⚡ Fun fact: I love listen music hanging on social media.
 
    🥅 2021 Goals: Contribute more to Open Source projects.
